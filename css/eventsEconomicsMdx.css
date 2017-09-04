@@ -1,0 +1,21 @@
+.classHeadEvent{
+  text-align:left;
+  display: inline-flex;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  background-color: lightgrey;
+  width:100%
+}
+.classDateEvent{
+  margin:0 10px 0 10px;
+  min-width:100px
+}
+.classDivTitleEvent{
+  margin:0 10px 0 10px;
+}
+.spanDataEvent{
+  color:red
+}
+.spanClassDivTitleEvent{
+  color:black
+}
